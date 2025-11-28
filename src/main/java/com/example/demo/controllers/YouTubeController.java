@@ -1,7 +1,7 @@
 package com.example.demo.controllers;
 
 import com.google.api.services.youtube.model.Channel;
-import com.google.api.services.youtube.model.SearchResult;
+import com.google.api.services.youtube.model.SearchResult;git rebase -i --root
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
